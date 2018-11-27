@@ -4,5 +4,5 @@
 ## Usage
 ```
 $ > brew tap arise-travel/ariseplugin
-$ > brew install arise-travel
+$ > brew install ariseplugin
 ```
