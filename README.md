@@ -1,2 +1,5 @@
-# homebrew-ariseplugin
-A CLI application for easy integration to existing partner connections
+# Homebrew Tap for the ariseplugin application ()
+```
+$ > brew tap arise-travel/ariseplugin
+$ > brew install arise-travel
+```
