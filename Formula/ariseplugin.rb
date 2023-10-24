@@ -4,7 +4,7 @@ class Ariseplugin < Formula
   homepage "https://developers.arise.travel/#distributor-plug-in"
   url "https://downloads.arise.travel/ariseplugin/darwin/ariseplugin_darwin_amd64.zip"
   version "1.0.0"
-  sha256 "1fb17c3ad389cf4b5033370b50caf0f29d903c1f8a85bd01cd384bb97a91eeae"
+  sha256 "d6b934043e7a3b419147e884b974e5131b4cc01f87f1320c176ea7d4bc6e5728"
 
   def install
     bin.install "ariseplugin"
